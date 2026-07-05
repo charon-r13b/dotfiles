@@ -105,7 +105,7 @@
 (global-auto-revert-mode 1)
 
 (set-face-attribute 'default nil
-                    :family "Red Hat Mono"
+                    :family "JetBrains Mono:style=Regular"
                     :height 105)
 
 ;;; フレームパラメータ初期値の設定
@@ -114,8 +114,8 @@
                ;; サイズ
                ;; '(width . 220)  ; 横幅(桁数)
                ;; '(height . 60) ; 高さ(行数)
-               '(width . 195)  ; 横幅(桁数)
-               '(height . 45) ; 高さ(行数)
+               '(width . 200)  ; 横幅(桁数)
+               '(height . 48) ; 高さ(行数)
                ;; 位置
                '(left . 10) ; 左上隅 x 座標
                '(top . 5)  ; 左上隅 y 座標
